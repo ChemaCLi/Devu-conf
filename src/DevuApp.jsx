@@ -13,7 +13,7 @@ export const DevuApp = () => {
         <meta property="og:image" content="/assets/devu-icon.png" />
       </Helmet>
       <Layout>
-          <AppRouter/>
+        <AppRouter/>
       </Layout>
     </HelmetProvider>
   )

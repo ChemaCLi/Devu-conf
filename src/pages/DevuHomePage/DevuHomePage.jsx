@@ -7,7 +7,7 @@ export const DevuHomePage = () => {
   return (
     <>
       <Helmet>
-        <title>Devu | Home</title>
+        <title>Devu Community</title>
         <meta
           name="description"
           content="La comunidad abierta donde desarrolladores y aficionados a la tecnología comparten su conocimiento y brindan apoyo a quienes lo necesitan."

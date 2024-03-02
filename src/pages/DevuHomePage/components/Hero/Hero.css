@@ -113,3 +113,17 @@
 .SocialNetworks__container img {
   width: 40px;
 }
+
+.content-network{
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  background: var(--c-gradient);
+}

@@ -1,4 +1,3 @@
-import { NavBar } from "../Navbar/NavBar";
 import "./Layout.css";
 export const Layout = ({ children }) => {
   return (
@@ -11,9 +10,6 @@ export const Layout = ({ children }) => {
           {children}
         </div>
         <div className="polyfill-colum" />
-      </div>
-      <div className="menu">
-        <NavBar></NavBar>
       </div>
     </div>
   );

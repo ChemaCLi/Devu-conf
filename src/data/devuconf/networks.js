@@ -2,7 +2,7 @@ export const SOCIAL_NETWORK = [
     {
         id: 7,
         name: "discord",
-        url: "https://discord.gg/cGzzwVJtB"
+        url: "https://discord.gg/AWZwypEm"
     },
     {
       id: 1,
