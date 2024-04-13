@@ -4,7 +4,7 @@
   max-width: 1700px;
   display: grid;
   grid-template-columns: auto;
-  grid-template-rows: 1fr 35px;
+  grid-template-rows: 1fr;
 }
 
 .main-container {
@@ -24,6 +24,6 @@
 }
 
 .main-content {
-  padding: 16px;
+  padding: 16px 16px 16px 0;
   height: 100%;
 }
